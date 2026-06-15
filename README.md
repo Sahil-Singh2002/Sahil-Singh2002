@@ -2,7 +2,7 @@
 - 👀 I’m interested in simulation-based code where I can particularly bring life to my code through animation. This is primarily for applications in Fluid Dynamics.
 - 🌱 I’m learning to solve Partial Differential Equations using Neural Networks. This is part of my Dissertation project in my Integrated Applied Mathematics Masters.
 - 💞️ I’m looking to collaborate on projects on fluid dynamics and generally applied mathematics, which includes from time to time statistical models.
-- 📫 How to reach me: Email: pmyss22@nottingham.ac.uk
+- 📫 How to reach me: Email: sahilrawat13@outlook.com
 
 - ⚡ Fun fact: I love freestyle/Greco-Roman wrestling, and it has taught me some of the most valuable skills.
 
